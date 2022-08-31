@@ -1,4 +1,4 @@
-# Host (Responável por juntar tudo)
+# Container (Responável por juntar tudo)
 
 ## 🧪 Tecnologias
 
@@ -19,6 +19,7 @@ $ npm start ou start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:8080.
 
+Para pode navegar é necessário estar com os microfrontend executando.
 ## 💻 Projeto
 
 Responsável por gerenciar os estados globais e quando cada microfrontend deve ser apresentado.
